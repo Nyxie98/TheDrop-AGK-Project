@@ -70,14 +70,6 @@ CreateSprite(13, 5)
 SetSpritePosition(13, 414-64, 740)*/
 
 file_path$ = GetWritePath()
- 
-/*do
- 
-    print(file_path$)
- 
-    sync()
- 
-loop*/
 
 // Create save file
 function createFile()
